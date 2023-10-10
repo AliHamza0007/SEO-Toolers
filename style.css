@@ -1,0 +1,70 @@
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*************************************** NAVBAR STYLE Start */
+
+.logo {
+  border-radius: 20px;
+}
+.nav-link {
+  margin: 0px 5px;
+  font-size: 1.2rem;
+  padding: 5px 10px !important ;
+  border-radius: 10px;
+}
+.nav-link:hover {
+  background: #b8b1b1;
+  color: rgb(35, 11, 250);
+  transition: all 0.5s ease-in-out;
+}
+.nav-link:active {
+  color: rgb(35, 11, 250);
+}
+/*****************************************           NAVBAR STYLE END */
+@media (max-width: 425px) {
+  .hide {
+    display: none;
+  }
+  .loginImg{display: none;}
+  .social {
+    flex-direction: column;
+  }
+ 
+}
+.homeHover:hover {
+  font-size: large;
+  transition: all 0.4s ease-in-out;
+}
+
+.social {
+  display: flex;
+}
+.social > a {
+  margin: 10px;
+color: white;
+  background: rgb(49, 45, 45);
+}
+/* //login or register page css */
+.show{
+  display: block;
+}
+.hide{
+  display: none;
+}
+.loginPageBody{background:#f3f4f9;}
+  /* //Hide Show Btn */
+  #inputPassword{padding-right: 35px;}
+  #showbtn{position: absolute;
+  top: 20%;
+  right: 5px;
+  transform: translate(-50);
+  border: none;
+  background: none;
+  cursor: pointer;
+  
+  
+  }
