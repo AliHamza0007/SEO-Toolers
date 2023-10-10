@@ -1,11 +1,9 @@
-# SEO-Toolers =>
+# SEO-Toolers =>https://seo-toolers.onrender.com
 
 
 
 
-Certainly! Below is a sample README file for your SEO Tools website on GitHub. Please customize it according to your specific project details and requirements.
 
----
 
 # SEO Tools Website
 
@@ -67,10 +65,3 @@ Contributions are welcome! Here's how you can contribute to this project:
 
 Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md) when contributing to this project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to enhance and customize this README file to better suit your project. Good luck with your SEO Tools website!
